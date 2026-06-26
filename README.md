@@ -171,7 +171,7 @@ Display Output
 ---
 
 ## 📷 Screenshots
-![alt text](image.png)
+![alt text](SCREENSHOT.png)
 
 
 ## 🔮 Future Improvements
